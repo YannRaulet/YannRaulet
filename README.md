@@ -3,6 +3,8 @@
 <p>I'm Yann Raulet</p>
 <p>I'm a French web Developer.</p>
 
+My protfolio : https://www.yann-raulet.com/
+
 *********************
 ```
 $yann = array (
@@ -10,10 +12,9 @@ $yann = array (
     "frameworks" => array("Symfony", "Qt", "Bootstrap")
 );
 ```
+
+
 *********************
-
-My protfolio : https://www.yann-raulet.com/
-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=YannRaulet)
 
