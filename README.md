@@ -12,7 +12,7 @@ $yann = array (
 ```
 *********************
 
-Mon protfolio : https://www.yann-raulet.com/
+My protfolio : https://www.yann-raulet.com/
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=YannRaulet)
