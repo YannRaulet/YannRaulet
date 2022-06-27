@@ -3,7 +3,7 @@
 <p>I'm Yann Raulet</p>
 <p>I'm a French web Developer.</p>
 
-My protfolio : https://www.yann-raulet.com/
+My portfolio : https://www.yann-raulet.com/
 
 *********************
 ```
