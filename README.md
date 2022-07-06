@@ -7,10 +7,17 @@ My portfolio : https://www.yann-raulet.com/
 
 *********************
 ```
-$yann = array (
-    "code"  => array("PHP", "JavaScript", "C" , "C++", "HTML", "CSS"),
-    "frameworks" => array("Symfony", "Qt", "Bootstrap")
-);
+    - PHP
+    - JavaScript
+    - HTML
+    - CSS
+    - C / C++ (notions)
+    
+    Frameworks : 
+    
+    - Symfony
+    - Bootstrap
+    - Qt (notions)
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannRaulet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
