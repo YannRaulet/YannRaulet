@@ -3,6 +3,8 @@
 <p>I'm Yann Raulet</p>
 <p>I'm a French web Developer.</p>
 
+- 🌱 I’m currently learning Angular 
+
 My portfolio : https://www.yann-raulet.com/
 
 *********************
@@ -16,6 +18,7 @@ My portfolio : https://www.yann-raulet.com/
     Frameworks : 
     
     - Symfony
+    - Angular (in progress)
     - Bootstrap
     - Qt (notions)
 ```
