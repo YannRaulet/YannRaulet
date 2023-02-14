@@ -3,7 +3,7 @@
 <p>I'm Yann Raulet</p>
 <p>I'm a French web Developer.</p>
 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently working on Angular
 
 My portfolio : https://www.yann-raulet.com/
 
