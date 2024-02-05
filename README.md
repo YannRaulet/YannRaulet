@@ -1,11 +1,8 @@
 ### Hi there 👋 ! 
 
 <p>I'm Yann Raulet</p>
-<p>I'm a French web Developer.</p>
+<p>I'm a French software support technician and I want to evolve in the field of testing.</p>
 
-- 🌱 I’m currently working on Angular
-
-My portfolio : https://www.yann-raulet.com/
 
 *********************
 ```
